@@ -28,6 +28,7 @@ depends "redis", ">= 2.1.0"
   redhat
   fedora
   windows
+  suse
 ].each do |os|
   supports os
 end
